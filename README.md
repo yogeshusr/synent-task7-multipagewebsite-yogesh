@@ -1,3 +1,7 @@
+LIVE PREVIEW:
+
+https://synent-task7-multipagewebsite-yogesh.netlify.app/
+
 # Multi-Page Responsive Website
 
 A professional and fully responsive multi-page website built using **HTML, CSS, and JavaScript**.  
